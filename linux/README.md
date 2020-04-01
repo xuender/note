@@ -1,8 +1,13 @@
-# Linux 技巧
+# Linux
+
+## 技巧
 
 * [sudo 免密码](sudo_免密码.md)
 * [开机自启动命令](开机自启动命令.md)
 * [VI 常用编辑方法](VI_常用编辑方法.md)
+
+## 命令
+
 * [cd 目录变更](cd.md)
 * [find 文件查找](find.md)
 * [tail 内容显示](tail.md)

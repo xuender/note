@@ -4,4 +4,4 @@
 * [软件开发](软件开发)
   * [Go 语言](软件开发/go)
   * [Java 语言](软件开发/java)
-* [Linux 技巧](linux)
+* [Linux](linux)

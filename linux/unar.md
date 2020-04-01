@@ -1,7 +1,7 @@
 # unar 解压
 
 文件归档压缩格式众多，unar是一个可以解压多种归档类型的强力工具。  
-已知可解压类型: zip, RAR, 7z, tar, gzip, bzip2, LZMA, XZ, CAB, MSI, NSIS, EXE, ISO, BIN 
+已知可解压类型: zip, RAR, 7z, tar, gzip, bzip2, LZMA, XZ, CAB, MSI, NSIS, EXE, ISO, BIN
 
 和文件分割类型 Stuffit X, DiskDouble, Compact Pro, Packit, cpio, compress (.Z), ARJ, ARC, PAK, ACE, ZOO, LZH, ADF, DMS, LZX, PowerPacker, LBR, Squeeze, Crunch 以及其他不常用格式。
 
