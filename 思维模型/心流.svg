@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="680" height="680" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <marker id="Triangle" viewBox="0 0 20 20" refX="0" refY="10"
+        markerWidth="10" markerHeight="10" orient="auto">
+      <path d="M 0 0 L 20 10 L 0 20 z" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="700" height="700" style="fill:white"/>
+
+  <line x1="50" y1="610" x2="50", y2="50" fill="none" stroke="black"
+      stroke-width="3" marker-end="url(#Triangle)" />
+  <line x1="70" y1="630" x2="630", y2="630" fill="none" stroke="black"
+      stroke-width="3" marker-end="url(#Triangle)" />
+  <text x="330" y="670">技巧水平</text>
+  <text x="30" y="250" style="writing-mode: tb;">挑战水平</text>
+
+<g transform="translate(70,10)">
+  <rect x="0" y="0" width="300" height="300" style="fill:red"/>
+  <rect x="300" y="0" width="300" height="300" style="fill:blue"/>
+  <rect x="0" y="300" width="300" height="300" style="fill:yellow"/>
+  <rect x="300" y="300" width="300" height="300" style="fill:green"/>
+
+  <polyline points="300,300 185,0 415,0" style="fill:purple"/>
+  <polyline points="300,300 0,185 0,415" style="fill:Orange"/>
+  <polyline points="300,300 185,600 415,600" style="fill:YellowGreen"/>
+  <polyline points="300,300 600,185 600,415" style="fill:cyan"/>
+
+  <g style="dominant-baseline:middle;text-anchor:middle;">
+  <text x="92" y="80">Anxiety</text>
+  <text x="92" y="120">焦虑</text>
+
+  <text x="300" y="80">Arousal</text>
+  <text x="300" y="120">唤起</text>
+
+  <text x="508" y="80">Flow</text>
+  <text x="508" y="120">心流</text>
+
+  <text x="92" y="280">Worry</text>
+  <text x="92" y="320">担忧</text>
+
+  <text x="508" y="280">Control</text>
+  <text x="508" y="320">掌控</text>
+
+  <text x="92" y="480">Apathy</text>
+  <text x="92" y="520">无感</text>
+
+  <text x="300" y="480">Boredom</text>
+  <text x="300" y="520">无聊</text>
+
+  <text x="508" y="480">Relaxation</text>
+  <text x="508" y="520">放松</text>
+  </g>
+</g>
+</svg>
