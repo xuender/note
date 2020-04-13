@@ -5,5 +5,5 @@
   * [Go 语言](code/go)
   * [Java 语言](code/java)
   * [Python 语言](code/python)
-  * [正则表达式](code/reg.md)
+  * [正则表达式](code/regex.md)
 * [Linux](linux)
