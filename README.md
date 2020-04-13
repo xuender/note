@@ -1,9 +1,9 @@
 # 笔记
 
-* [思维模型](思维模型)
-* [软件开发](软件开发)
-  * [Go 语言](软件开发/go)
-  * [Java 语言](软件开发/java)
-  * [Python 语言](软件开发/python)
-  * [正则表达式](软件开发/reg.md)
+* [思维模型](mode)
+* [软件开发](code)
+  * [Go 语言](code/go)
+  * [Java 语言](code/java)
+  * [Python 语言](code/python)
+  * [正则表达式](code/reg.md)
 * [Linux](linux)
