@@ -5,11 +5,11 @@
 ## 范围端口
 
 ```shell
-nmap -sS xxx.xxx.xxx.xxx -p1-9000
+sudo nmap -sS xxx.xxx.xxx.xxx -p1-9000
 ```
 
 ## 指定端口
 
 ```shell
-nmap -sS xxx.xxx.xxx.xxx -p 21,80,8080
+sudo nmap -sS xxx.xxx.xxx.xxx -p 21,80,8080
 ```

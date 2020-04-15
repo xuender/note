@@ -19,3 +19,4 @@
 * [man 文档](man.md)
 * [nc netcat](nc.md)
 * [nmap 端口扫描](nmap.md)
+* [netstat 端口占用信息](netstat.md)
