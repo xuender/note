@@ -17,3 +17,5 @@
 * [tar 文件归档](tar.md)
 * [unar 解压](unar.md)
 * [man 文档](man.md)
+* [nc netcat](nc.md)
+* [nmap 端口扫描](nmap.md)
