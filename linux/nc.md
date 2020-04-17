@@ -36,4 +36,4 @@ nc localhost 9000
 nc -v -z -w2 xxx.xxx.xxx.xxx 1-100
 ```
 
-不太好用，推荐使用[nmap](nmap.md)
+端口扫描不太好用，推荐使用[nmap](nmap.md)
