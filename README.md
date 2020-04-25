@@ -1,9 +1,9 @@
 # 笔记
 
-* [思维模型](mode)
-* [软件开发](code)
-  * [Go 语言](code/go)
-  * [Java 语言](code/java)
-  * [Python 语言](code/python)
+* [思维模型](mode/README.md)
+* [软件开发](code/README.md)
+  * [Go 语言](code/go/README.md)
+  * [Java 语言](code/java/README.md)
+  * [Python 语言](code/python/README.md)
   * [正则表达式](code/regex.md)
-* [Linux](linux)
+* [Linux](linux/README.md)
