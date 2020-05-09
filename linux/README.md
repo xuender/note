@@ -7,6 +7,7 @@
 * [VI 常用编辑方法](VI_常用编辑方法.md)
 * [端口占用查看](端口占用查看.md)
 * [无线网卡安装](无线网卡.md)
+* [修改默认编辑器](修改默认编辑器.md)
 
 ## 命令
 
@@ -21,6 +22,7 @@
 * [nc netcat](nc.md)
 * [nmap 端口扫描](nmap.md)
 * [netstat 端口占用信息](netstat.md)
+* [crontab 定时任务](crontab.md)
 
 ## 环境
 
