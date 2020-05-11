@@ -3,4 +3,4 @@
 ## 命令
 
 * [notify-send](notify-send.md)
-* [gnome-system-monitor](gnome-system-monitor.md)
+* [monitor 系统监视器](monitor.md)
