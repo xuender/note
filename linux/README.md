@@ -23,6 +23,7 @@
 * [nmap 端口扫描](nmap.md)
 * [netstat 端口占用信息](netstat.md)
 * [crontab 定时任务](crontab.md)
+* [rarcrack 密码破解](rarcrack.md)
 
 ## 环境
 
