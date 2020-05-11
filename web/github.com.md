@@ -7,3 +7,12 @@
 ```shell
 199.232.28.133  raw.githubusercontent.com
 ```
+
+## 无法访问 api.github.com
+
+`/etc/hosts` 增加
+
+```shell
+192.30.253.117 api.github.com
+192.30.253.116 api.github.com
+```
