@@ -13,3 +13,9 @@ sudo apt install package-name
 ```shell
 sudo dpkg -i xxx.deb
 ```
+
+## 删除 deb 包
+
+```shell
+sudo dpkg -r xxx.deb
+```
