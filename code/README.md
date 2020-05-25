@@ -5,6 +5,7 @@
 * [Go 语言](go/README.md)
 * [Java 语言](java/README.md)
 * [Python 语言](python/README.md)
+* [TypeScript 脚本语言](typescript/README.md)
 * [Graphviz 图形描述语言](graphviz.md)
 
 ## 通用
