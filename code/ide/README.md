@@ -18,3 +18,8 @@
   * Golang 支持
 
 ## IntelliJ IDEA
+
+* Rainbow Brackets 彩虹括号
+  * 会改变代码格式化约定,不好用
+* HighlightBracketPair 彩色括号
+  * 简单好用
