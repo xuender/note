@@ -6,6 +6,7 @@
 sudo apt install tilda
 sudo apt install -y zsh
 sudo apt install vim
+sudo apt install vim-gtk3
 sudo apt install maven
 sudo apt install chromium-browser
 sudo apt install git

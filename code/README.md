@@ -13,6 +13,10 @@
 * [正则表达式](regex.md)
 * [界面设计](界面设计.md)
 
+## 原则
+
+* [Rule of Three 三次重复再抽象](rule_of_three.md)
+
 ## 思路
 
 * [一种AB测试](一种AB测试.md)
