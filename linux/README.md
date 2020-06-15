@@ -24,6 +24,7 @@
 * [netstat 端口占用信息](netstat.md)
 * [crontab 定时任务](crontab.md)
 * [rarcrack 密码破解](rarcrack.md)
+* [zip 压缩](zip.md)
 
 ## 服务
 
