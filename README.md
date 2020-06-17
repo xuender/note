@@ -1,5 +1,7 @@
 # 笔记
 
+![logo](ender.png)
+
 * [思维模型](mode/README.md)
 * [软件开发](code/README.md)
   * [Go 语言](code/go/README.md)
