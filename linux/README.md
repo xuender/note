@@ -25,6 +25,7 @@
 * [crontab 定时任务](crontab.md)
 * [rarcrack 密码破解](rarcrack.md)
 * [zip 压缩](zip.md)
+* [make Makefile执行](make.md)
 
 ## 服务
 
