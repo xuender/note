@@ -34,4 +34,4 @@ function main(path: string) {
   save("mode.txt", data.join("\n"));
 }
 
-main("../mode");
+main("mode");
