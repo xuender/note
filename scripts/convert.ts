@@ -31,7 +31,7 @@ function load(path: string, data: string[]) {
 function main(path: string) {
   const data: string[] = [];
   load(path, data);
-  save("mode.txt", data.join("\n"));
+  save("dist/mode.txt", data.join("\n"));
 }
 
 main("mode");

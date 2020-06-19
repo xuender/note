@@ -1,6 +1,7 @@
 all:
-	rm -f dict.txt
-	deno run -A src/convert.ts
+	rm -rf dist
+	mkdir -p dist
+	deno run -A scripts/convert.ts
 
 commit:
 	git commit -am 'commit note'
