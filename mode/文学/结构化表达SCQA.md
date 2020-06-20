@@ -1,6 +1,6 @@
-# SCQA
+# 结构化表达 SCQA
 
-(Situation现状、Complication、Question问题、Answer回答）
+(Situation现状、Complication并发症、Question问题、Answer回答）
 
 1. 试着概述目前处境（或者整个大环境的情况）  
 例：电子商务正在以比以往更高的速度和复杂性进行着，这一趋势还将继续。贸易的自动化的高速发展需要与之相匹配的会计自动化。
