@@ -8,6 +8,7 @@
 * [TypeScript 脚本语言](typescript/README.md)
 * [Graphviz 图形描述语言](graphviz.md)
 * [deno JavaScript、TypeScript解释器](deno/README.md)
+* [逻辑语言 Prolog](prolog.md)
 
 ## 通用
 
