@@ -31,6 +31,7 @@
 
 * [docker](docker.md)
 * [nginx](nginx.md)
+* [prometheus](prometheus.md)
 
 ## 系统
 
