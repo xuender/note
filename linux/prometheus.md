@@ -10,7 +10,7 @@ docker pull prom/prometheus
 docker pull grafana/grafana
 ```
 
-服务器数据收集
+Linux机器指标收集
 
 ```shell
 docker run -d -p 9100:9100 \
@@ -32,7 +32,7 @@ docker run  -d \
   prom/prometheus
 ```
 
-图形界面
+图形界面数据存储
 
 ```shell
 docker run -d \
