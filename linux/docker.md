@@ -1,5 +1,13 @@
 # docker
 
+## 免sudo
+
+```shell
+sudo usermod -aG docker 用户名
+sudo systemctl restart docker
+sudo chmod a+rw /var/run/docker.sock
+```
+
 ## 安装
 
 ```shell
