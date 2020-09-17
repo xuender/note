@@ -9,3 +9,7 @@
 * [vim 编辑器之神](vim.md)
 
 [国内镜像](国内镜像.md)
+
+## 安装
+
+* [install.sh](install.sh)
