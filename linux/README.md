@@ -11,6 +11,7 @@
 
 ## 命令
 
+* [ab 压力测试](ab.md)
 * [cd 目录变更](cd.md)
 * [find 文件查找](find.md)
 * [tail 内容显示](tail.md)
