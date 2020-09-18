@@ -1,81 +1,80 @@
 {
-    "gitlens.advanced.messages": {
-        "suppressShowKeyBindingsNotice": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true,
+  },
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 24,
+  "editor.fontFamily": "'Source Code Pro', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback','DejaVu Sans Mono for Powerline'",
+  "files.watcherExclude": {
+    "**/app/dist/**": true,
+    "**/app/lib/**": true
+  },
+  "editor.formatOnSave": true,
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0,
+  "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -javaagent:\"/home/ender/.vscode/extensions/gabrielbb.vscode-lombok-1.0.1/server/lombok.jar\"",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "go.gopath": "/home/ender/.gvm/pkgsets/go1.15.1/global",
+  "go.useLanguageServer": true,
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "emmet.includeLanguages": {
+    "wxml": "html"
+  },
+  "minapp-vscode.disableAutoConfig": true,
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {},
+    "FIXME": {}
+  },
+  "todo-tree.highlights.defaultHighlight": {
+    "foreground": "green",
+    "type": "none"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "todo-tree.tree.showScanModeButton": false,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "plantuml.jar": "/home/ender/utils/plantuml.jar",
+  "git.enableSmartCommit": true,
+  "markdownlint.config": {
+    "MD024": false,
+    "MD025": false,
+    "MD026": false,
+    "MD041": false
+  },
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "vscode-seedling-icon-theme",
+  "go.enableCodeLens": {
+    "references": false,
+    "runtest": true
+  },
+  "java.home": "/usr/lib/jvm/default-java",
+  "java.maven.downloadSources": true,
+  "java.maven.updateSnapshots": true,
+  "java.configuration.runtimes": [{
+      "name": "JavaSE-1.8",
+      "path": "/home/ender/utils/jdk1.8.0_77",
     },
-    "files.autoSave": "afterDelay",
-    "editor.fontSize": 24,
-    "editor.fontFamily": "'Source Code Pro', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback','DejaVu Sans Mono for Powerline'",
-    "files.watcherExclude": {
-        "**/app/dist/**": true,
-        "**/app/lib/**": true
+    {
+      "name": "JavaSE-11",
+      "path": "/usr/lib/jvm/default-java",
+      "default": true
     },
-    "editor.formatOnSave": true,
-    "window.titleBarStyle": "custom",
-    "window.zoomLevel": 0,
-    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -javaagent:\"/home/ender/.vscode/extensions/gabrielbb.vscode-lombok-1.0.1/server/lombok.jar\"",
-    "files.exclude": {
-        "**/.classpath": true,
-        "**/.project": true,
-        "**/.settings": true,
-        "**/.factorypath": true
-    },
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "go.gopath": "/home/ender/.gvm/pkgsets/go1.15.1/global",
-    "go.useLanguageServer": true,
-    "files.associations": {
-        "*.cjson": "jsonc",
-        "*.wxss": "css",
-        "*.wxs": "javascript"
-    },
-    "emmet.includeLanguages": {
-        "wxml": "html"
-    },
-    "minapp-vscode.disableAutoConfig": true,
-    "todo-tree.highlights.customHighlight": {
-        "TODO": {},
-        "FIXME": {}
-    },
-    "todo-tree.highlights.defaultHighlight": {
-        "foreground": "green",
-        "type": "none"
-    },
-    "typescript.updateImportsOnFileMove.enabled": "never",
-    "todo-tree.tree.showScanModeButton": false,
-    "git.confirmSync": false,
-    "git.autofetch": true,
-    "plantuml.jar": "/home/ender/utils/plantuml.jar",
-    "git.enableSmartCommit": true,
-    "markdownlint.config": {
-        "MD024": false,
-        "MD025": false,
-        "MD026": false,
-        "MD041": false
-    },
-    "tabnine.experimentalAutoImports": true,
-    "workbench.iconTheme": "vscode-seedling-icon-theme",
-    "go.enableCodeLens": {
-        "references": false,
-        "runtest": true
-    },
-    "java.home": "/usr/lib/jvm/default-java",
-    "java.maven.downloadSources": true,
-    "java.maven.updateSnapshots": true,
-    "java.configuration.runtimes": [
-        {
-            "name": "JavaSE-1.8",
-            "path": "/home/ender/utils/jdk1.8.0_77",
-        },
-        {
-            "name": "JavaSE-11",
-            "path": "/usr/lib/jvm/default-java",
-            "default": true
-        },
-        {
-            "name": "JavaSE-14",
-            "path": "/usr/lib/jvm/java-14-oracle",
-        }
-    ],
-    "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline",
-    "terminal.integrated.fontSize": 20,
+    {
+      "name": "JavaSE-14",
+      "path": "/usr/lib/jvm/java-14-oracle",
+    }
+  ],
+  "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline",
+  "terminal.integrated.fontSize": 20
 }
