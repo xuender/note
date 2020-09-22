@@ -5,9 +5,15 @@
 ## docker 安装
 
 ```shell
+# 服务器监控
 docker pull prom/node-exporter
+# 数据抓取
 docker pull prom/prometheus
+# 显示存储
 docker pull grafana/grafana
+# 推送接收
+docker pull prom/pushgateway
+# docker run -d -p 9091:9091 prom/pushgateway
 ```
 
 Linux机器指标收集
