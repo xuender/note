@@ -1,6 +1,6 @@
 # prometheus
 
-监控&报警
+普罗米修斯，监控&报警
 
 ## docker 安装
 
