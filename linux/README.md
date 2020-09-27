@@ -34,6 +34,7 @@
 * [docker](docker.md)
 * [nginx](nginx.md)
 * [prometheus](prometheus.md)
+* [ecryptfs 加密目录](ecryptfs.md)
 
 ## 系统
 
