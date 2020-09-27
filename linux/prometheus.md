@@ -85,3 +85,4 @@ docker exec -it prom /bin/sh
 ## 参考
 
 * [基于docker 搭建Prometheus+Grafana](https://www.cnblogs.com/xiao987334176/p/9930517.html)
+* [Prometheus Metrics 设计的最佳实践和应用实例](https://blog.csdn.net/yunxiao6/article/details/108650064)
