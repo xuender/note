@@ -34,11 +34,7 @@
 * [docker](docker.md)
 * [nginx](nginx.md)
 * [prometheus](prometheus.md)
-<<<<<<< HEAD
 * [ecryptfs 加密目录](ecryptfs.md)
-=======
-* [ecryptfs](加密目录)
->>>>>>> dda8967c5d2a89997804b4e03fc8f55b4755d22a
 
 ## 系统
 
