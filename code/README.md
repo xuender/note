@@ -15,6 +15,7 @@
 * [正则表达式](regex.md)
 * [界面设计](界面设计.md)
 * [swagger API描述](swagger.md)
+* [持续集成](持续集成.md)
 
 ## 原则
 
