@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eis-go
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: eis-go
+  template:
+    metadata:
+      labels:
+        app: eis-go
+    spec:
+      containers:
+        - name: eis-go
+          image: eis-go
+          ports:
+            - containerPort: 8080

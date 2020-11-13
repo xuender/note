@@ -1,0 +1,11 @@
+apiVersion: apps/v1
+kind: Service
+metadata:
+  name: eis-go
+spec:
+  type: NodePort
+  ports:
+    - port: 8080
+      nodePort: 3001
+  selector:
+    app: eis-go

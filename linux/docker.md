@@ -52,3 +52,11 @@ sudo reboot
 ## docker-compose
 
 [install](https://docs.docker.com/compose/install)
+
+## 编译镜像
+
+```shell
+docker build -t 名称:latest .
+```
+
+latest 是版本号
