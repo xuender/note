@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mysql2
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mysql2
+  template:
+    metadata:
+      labels:
+        app: mysql2
+    spec:
+      containers:
+        - image: mysql
+          name: mysql2
+          ports:
+            - containerPort: 3306
+          env:
+            - name: MYSQL_ROOT_PASSWORD
+              value: "123"

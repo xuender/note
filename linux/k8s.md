@@ -68,4 +68,6 @@ kubectl get configmap
 kubectl scale deployment eis-go --replicas 2
 # 详情
 kubectl describe pod
+# 执行shell
+kubectl exec [pid] /bin/sh
 ```
