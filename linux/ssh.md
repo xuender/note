@@ -1,5 +1,11 @@
 # ssh
 
+## 免秘钥
+
+```shell
+ssh-copy-id -i ~/.ssh/id_rsa.pub 192.168.1.63
+```
+
 ## 链接超时
 
 客户端编辑 `/etc/ssh/ssh_config`

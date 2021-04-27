@@ -2,8 +2,14 @@
 
 修改加盘配置
 
-## CapsLock 和 ctrl 交换
+## CapsLock 改成 ctrl
 
 ```shell
-setxkbmap -option ctrl:swapcaps
+setxkbmap -option caps:ctrl_modifier
 ```
+
+## 启动修改
+
+/etc/default/keyboard
+
+`XKBOPTIONS="caps:ctrl_modifier"`

@@ -71,3 +71,7 @@ kubectl describe pod
 # 执行shell
 kubectl exec [pid] /bin/sh
 ```
+
+## java 突然关闭
+
+如果java JAVA_OPT Xms 值和docker容器限制相同，内存满了的时候，java进程会突然关闭

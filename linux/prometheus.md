@@ -86,3 +86,10 @@ docker exec -it prom /bin/sh
 
 * [基于docker 搭建Prometheus+Grafana](https://www.cnblogs.com/xiao987334176/p/9930517.html)
 * [Prometheus Metrics 设计的最佳实践和应用实例](https://blog.csdn.net/yunxiao6/article/details/108650064)
+* [删除数据](https://www.qikqiak.com/post/prometheus-delete-metrics/)
+
+## 删除
+
+```shell
+curl -X POST -g 'http://prometheus-svc:9090/api/v1/admin/tsdb/delete_series?match[]={__name__="woda_short"}'
+```
